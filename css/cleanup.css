@@ -1,2 +1,4 @@
 /* write your override styles here */
-body ~ 
+body ~ div {
+  display: none;
+}
